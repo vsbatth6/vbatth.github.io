@@ -1,12 +1,12 @@
 # Data Engineer
 
 ## Education
-- B.S., Computer Science - Big Data Concentration | New York Institute of Technology (_May 2018_)
-- A.S., Computer Science | New York Institute of Technology (_May 2015_)
+- B.S. Computer Science | New York Institute of Technology (_May 2018_)
+- A.S. Computer Science | New York Institute of Technology (_May 2015_)
 
 ## Work Experience
 **Data Engineer II @ USAA (_April 2021 - Present_)**
-- Risk Decision Engine project created $466M worth of value by strategically re-platforming all operational credit risk decisioning at USAA to a centralized platform
+- Risk Decision Engine project created **$466M worth of value** by strategically re-platforming all operational credit risk decisioning at USAA to a centralized platform
 - Leading a distributed team of 7 developers in nationwide collaboration with 10+ teams and 300+ individuals ranging from business executives, program managers, product owners, information governance, business strategy teams, as well as internal and external vendor IT teams
 - Identified discrepancies in **Data Quality & Compliance** and overhauled existing checks to exceed compliancy standards
 - Multi-year experience building business-critical pipelines in strategies such as Credit Card, Deposits, Underwriting, Consumer Lending, Income, Military Rank, Customer, Bureau, and Sensitive PII/PCI/PHI data
@@ -16,7 +16,7 @@
     - Leading cloud data warehouse migration into **Snowflake**
     - Configured S3 Cross-Account Bucket share with external vendor via IAM policies to create direct pipeline to Snowflake
     - Enbaled Point-forward loading into Snowflake
-    - Migrated histrocial data from Hadoop to Snowflkae.
+    - Migrated histrocial data from Hadoop to Snowflake
 - **Kafka**
     - Re-designed Kafka Topic consumption pipeline by creating cross-team functionality
     - Reduced development from 4 weeks to 2 weeks and exceeded deadline expectations
