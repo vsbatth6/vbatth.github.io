@@ -36,10 +36,10 @@
     - Automated & logged daily reporting system that allowed stakeholder outreach for vendor accountability in failure events
 
 ## Skills
-- **Languages**: | Python, Bash, Shell, SQL
-- **Data & Analytics**: | MySQL, DB2, Pandas, Numpy, Jupyter, Data Modeling
-- **ETL Tools**: | Hadoop, HDFS, Hive, IBM Datastage, Control-M
-- **Cloud**: | AWS - S3, EC2, Redshift, IAM, Snowflake
+- **Languages**: Python, Bash, Shell, SQL
+- **Data & Analytics**: MySQL, DB2, Pandas, Numpy, Jupyter, Data Modeling
+- **ETL Tools**: Hadoop, HDFS, Hive, IBM Datastage, Control-M
+- **Cloud**: AWS - S3, EC2, Redshift, IAM, Snowflake
 
 ## Projects
 ### Expense Analysis
