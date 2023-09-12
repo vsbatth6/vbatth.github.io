@@ -2,7 +2,7 @@
 
 ## Education
 - B.S. Computer Science | New York Institute of Technology (_May 2018_)
-- A.S. Computer Science | New York Institute of Technology (_May 2015_)
+- A.S. Computer Science | Bergen Community College (_May 2015_)
 
 ## Work Experience
 **Data Engineer II @ USAA (_April 2021 - Present_)**
@@ -36,11 +36,10 @@
     - Automated & logged daily reporting system that allowed stakeholder outreach for vendor accountability in failure events
 
 ## Skills
-|Languages      |Data                           |ETL Tools                      |Cloud      |
-|---            |---                            |---                            |---        |
-|Python         |SQL, MySQL, DB2                |Hadoop, HDFS, Hive             |AWS - S3, EC2, Redshift, IAM |
-|Bash,Shell     |Pandas, Numpy, Jupyter         |IBM Datastage, Control-M       |Snowflake  |
-|               |Data Modeling                  |                               |           |
+- **Languages**: | Python, Bash, Shell, SQL
+- **Data & Analytics**: | MySQL, DB2, Pandas, Numpy, Jupyter, Data Modeling
+- **ETL Tools**: | Hadoop, HDFS, Hive, IBM Datastage, Control-M
+- **Cloud**: | AWS - S3, EC2, Redshift, IAM, Snowflake
 
 ## Projects
 ### Expense Analysis
